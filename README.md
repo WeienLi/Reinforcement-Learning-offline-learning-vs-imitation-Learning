@@ -33,5 +33,6 @@ Half-Half Averages:
  
  500: 84.454
  
- Then using the fitted q-learning and imitation learning to learn from the above 9 datasets obtain us the final result of our expriment. 
+ Then using the fitted q-learning and imitation learning to learn from the above 9 datasets obtain us the final result of our expriment: 
  
+![alt text](https://github.com/WeienLi/Reinforcement-Learning-offline-learning-vs-imitation-Learning/blob/master/Result.png?raw=true)
